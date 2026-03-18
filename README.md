@@ -1,4 +1,4 @@
-# Ady (Ram) Cohen - aiWorks Group founder
+# Ady (Ram) Cohen - aiWorks group founder
 
 **Building AI-driven systems, infrastructure, and products at scale.**
 
