@@ -1,4 +1,4 @@
-# Ady (Ram) Chen founder of aiWorks Group
+# Ady (Ram) Cohen - aiWorks Group founder
 
 **Building AI-driven systems, infrastructure, and products at scale.**
 
@@ -30,9 +30,8 @@ Our goal is to build systems that are not only innovative, but also scalable, ma
 
 - AI/ML infrastructure and tooling  
 - Multi-tenant SaaS platforms  
-- Real-time data systems  
 - Robotics and edge computing  
-- HPC-as-a-Service environments  
+- HPC infrastructure, projects and environments  
 
 ## Website
 
@@ -40,4 +39,4 @@ Our goal is to build systems that are not only innovative, but also scalable, ma
 
 ## Contact
 
-For collaborations, consulting, or partnerships — feel free to reach out.
+For collaborations, consulting, or partnerships - feel free to reach out.
